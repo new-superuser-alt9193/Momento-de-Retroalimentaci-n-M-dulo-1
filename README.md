@@ -10,3 +10,9 @@
 
 # Nota
 Decidi agregar un reporte para documentar y justificar el desarrollo del dashboard.
+
+# Cabios
+
+- Se modificó el notebook con el fin de ser más explicativo sobre el procedimiento llevado a cabo.
+- Se modificó el dashboard de tableau.
+- Se modificó el reporte del procedimiento llevado a cabo en el notebook y el dashboard, incluyendo una imagen del dashboard resultante.
